@@ -1,0 +1,304 @@
+C:\Users\ADMIN\Desktop\DACN 11.11.2020\AdminSide\AdminSide\obj\Debug\AdminSide.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\DACN 11.11.2020\AdminSide\AdminSide\obj\Debug\AdminSide.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\DACN 11.11.2020\AdminSide\AdminSide\bin\AdminSide.dll.config
+C:\Users\ADMIN\Desktop\DACN 11.11.2020\AdminSide\AdminSide\bin\AdminSide.dll
+C:\Users\ADMIN\Desktop\DACN 11.11.2020\AdminSide\AdminSide\bin\AdminSide.pdb
+C:\Users\ADMIN\Desktop\DACN 11.11.2020\AdminSide\AdminSide\bin\roslyn\csc.exe
+C:\Users\ADMIN\Desktop\DACN 11.11.2020\AdminSide\AdminSide\bin\roslyn\csc.exe.config
+C:\Users\ADMIN\Desktop\DACN 11.11.2020\AdminSide\AdminSide\bin\roslyn\csc.rsp
+C:\Users\ADMIN\Desktop\DACN 11.11.2020\AdminSide\AdminSide\bin\roslyn\csi.exe
+C:\Users\ADMIN\Desktop\DACN 11.11.2020\AdminSide\AdminSide\bin\roslyn\csi.exe.config
+C:\Users\ADMIN\Desktop\DACN 11.11.2020\AdminSide\AdminSide\bin\roslyn\csi.rsp
+C:\Users\ADMIN\Desktop\DACN 11.11.2020\AdminSide\AdminSide\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ADMIN\Desktop\DACN 11.11.2020\AdminSide\AdminSide\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ADMIN\Desktop\DACN 11.11.2020\AdminSide\AdminSide\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ADMIN\Desktop\DACN 11.11.2020\AdminSide\AdminSide\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ADMIN\Desktop\DACN 11.11.2020\AdminSide\AdminSide\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ADMIN\Desktop\DACN 11.11.2020\AdminSide\AdminSide\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ADMIN\Desktop\DACN 11.11.2020\AdminSide\AdminSide\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ADMIN\Desktop\DACN 11.11.2020\AdminSide\AdminSide\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ADMIN\Desktop\DACN 11.11.2020\AdminSide\AdminSide\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ADMIN\Desktop\DACN 11.11.2020\AdminSide\AdminSide\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ADMIN\Desktop\DACN 11.11.2020\AdminSide\AdminSide\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ADMIN\Desktop\DACN 11.11.2020\AdminSide\AdminSide\bin\roslyn\System.AppContext.dll
+C:\Users\ADMIN\Desktop\DACN 11.11.2020\AdminSide\AdminSide\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ADMIN\Desktop\DACN 11.11.2020\AdminSide\AdminSide\bin\roslyn\System.Console.dll
+C:\Users\ADMIN\Desktop\DACN 11.11.2020\AdminSide\AdminSide\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ADMIN\Desktop\DACN 11.11.2020\AdminSide\AdminSide\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ADMIN\Desktop\DACN 11.11.2020\AdminSide\AdminSide\bin\roslyn\System.IO.Compression.dll
+C:\Users\ADMIN\Desktop\DACN 11.11.2020\AdminSide\AdminSide\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ADMIN\Desktop\DACN 11.11.2020\AdminSide\AdminSide\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ADMIN\Desktop\DACN 11.11.2020\AdminSide\AdminSide\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ADMIN\Desktop\DACN 11.11.2020\AdminSide\AdminSide\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ADMIN\Desktop\DACN 11.11.2020\AdminSide\AdminSide\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ADMIN\Desktop\DACN 11.11.2020\AdminSide\AdminSide\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ADMIN\Desktop\DACN 11.11.2020\AdminSide\AdminSide\bin\roslyn\System.Security.Claims.dll
+C:\Users\ADMIN\Desktop\DACN 11.11.2020\AdminSide\AdminSide\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ADMIN\Desktop\DACN 11.11.2020\AdminSide\AdminSide\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ADMIN\Desktop\DACN 11.11.2020\AdminSide\AdminSide\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ADMIN\Desktop\DACN 11.11.2020\AdminSide\AdminSide\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ADMIN\Desktop\DACN 11.11.2020\AdminSide\AdminSide\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ADMIN\Desktop\DACN 11.11.2020\AdminSide\AdminSide\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ADMIN\Desktop\DACN 11.11.2020\AdminSide\AdminSide\bin\roslyn\System.ValueTuple.dll
+C:\Users\ADMIN\Desktop\DACN 11.11.2020\AdminSide\AdminSide\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ADMIN\Desktop\DACN 11.11.2020\AdminSide\AdminSide\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ADMIN\Desktop\DACN 11.11.2020\AdminSide\AdminSide\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ADMIN\Desktop\DACN 11.11.2020\AdminSide\AdminSide\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ADMIN\Desktop\DACN 11.11.2020\AdminSide\AdminSide\bin\roslyn\vbc.exe
+C:\Users\ADMIN\Desktop\DACN 11.11.2020\AdminSide\AdminSide\bin\roslyn\vbc.exe.config
+C:\Users\ADMIN\Desktop\DACN 11.11.2020\AdminSide\AdminSide\bin\roslyn\vbc.rsp
+C:\Users\ADMIN\Desktop\DACN 11.11.2020\AdminSide\AdminSide\bin\roslyn\VBCSCompiler.exe
+C:\Users\ADMIN\Desktop\DACN 11.11.2020\AdminSide\AdminSide\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ADMIN\Desktop\DACN 11.11.2020\AdminSide\AdminSide\bin\Antlr3.Runtime.dll
+C:\Users\ADMIN\Desktop\DACN 11.11.2020\AdminSide\AdminSide\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ADMIN\Desktop\DACN 11.11.2020\AdminSide\AdminSide\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ADMIN\Desktop\DACN 11.11.2020\AdminSide\AdminSide\bin\Newtonsoft.Json.dll
+C:\Users\ADMIN\Desktop\DACN 11.11.2020\AdminSide\AdminSide\bin\System.Web.Helpers.dll
+C:\Users\ADMIN\Desktop\DACN 11.11.2020\AdminSide\AdminSide\bin\System.Web.Mvc.dll
+C:\Users\ADMIN\Desktop\DACN 11.11.2020\AdminSide\AdminSide\bin\System.Web.Optimization.dll
+C:\Users\ADMIN\Desktop\DACN 11.11.2020\AdminSide\AdminSide\bin\System.Web.Razor.dll
+C:\Users\ADMIN\Desktop\DACN 11.11.2020\AdminSide\AdminSide\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ADMIN\Desktop\DACN 11.11.2020\AdminSide\AdminSide\bin\System.Web.WebPages.dll
+C:\Users\ADMIN\Desktop\DACN 11.11.2020\AdminSide\AdminSide\bin\System.Web.WebPages.Razor.dll
+C:\Users\ADMIN\Desktop\DACN 11.11.2020\AdminSide\AdminSide\bin\WebGrease.dll
+C:\Users\ADMIN\Desktop\DACN 11.11.2020\AdminSide\AdminSide\bin\System.Web.Helpers.xml
+C:\Users\ADMIN\Desktop\DACN 11.11.2020\AdminSide\AdminSide\bin\System.Web.Mvc.xml
+C:\Users\ADMIN\Desktop\DACN 11.11.2020\AdminSide\AdminSide\bin\System.Web.Optimization.xml
+C:\Users\ADMIN\Desktop\DACN 11.11.2020\AdminSide\AdminSide\bin\System.Web.Razor.xml
+C:\Users\ADMIN\Desktop\DACN 11.11.2020\AdminSide\AdminSide\bin\System.Web.WebPages.xml
+C:\Users\ADMIN\Desktop\DACN 11.11.2020\AdminSide\AdminSide\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ADMIN\Desktop\DACN 11.11.2020\AdminSide\AdminSide\bin\System.Web.WebPages.Razor.xml
+C:\Users\ADMIN\Desktop\DACN 11.11.2020\AdminSide\AdminSide\bin\Newtonsoft.Json.xml
+C:\Users\ADMIN\Desktop\DACN 11.11.2020\AdminSide\AdminSide\bin\Antlr3.Runtime.pdb
+C:\Users\ADMIN\Desktop\DACN 11.11.2020\AdminSide\AdminSide\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ADMIN\Desktop\DACN 11.11.2020\AdminSide\AdminSide\obj\Debug\AdminSide.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\DACN 11.11.2020\AdminSide\AdminSide\obj\Debug\AdminSide.dll
+C:\Users\ADMIN\Desktop\DACN 11.11.2020\AdminSide\AdminSide\obj\Debug\AdminSide.pdb
+D:\LGT-Project\AdminSide\AdminSide\bin\AdminSide.dll.config
+D:\LGT-Project\AdminSide\AdminSide\bin\AdminSide.dll
+D:\LGT-Project\AdminSide\AdminSide\bin\AdminSide.pdb
+D:\LGT-Project\AdminSide\AdminSide\bin\roslyn\csc.exe
+D:\LGT-Project\AdminSide\AdminSide\bin\roslyn\csc.exe.config
+D:\LGT-Project\AdminSide\AdminSide\bin\roslyn\csc.rsp
+D:\LGT-Project\AdminSide\AdminSide\bin\roslyn\csi.exe
+D:\LGT-Project\AdminSide\AdminSide\bin\roslyn\csi.exe.config
+D:\LGT-Project\AdminSide\AdminSide\bin\roslyn\csi.rsp
+D:\LGT-Project\AdminSide\AdminSide\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\LGT-Project\AdminSide\AdminSide\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\LGT-Project\AdminSide\AdminSide\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\LGT-Project\AdminSide\AdminSide\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\LGT-Project\AdminSide\AdminSide\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\LGT-Project\AdminSide\AdminSide\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\LGT-Project\AdminSide\AdminSide\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\LGT-Project\AdminSide\AdminSide\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\LGT-Project\AdminSide\AdminSide\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\LGT-Project\AdminSide\AdminSide\bin\roslyn\Microsoft.Managed.Core.targets
+D:\LGT-Project\AdminSide\AdminSide\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\LGT-Project\AdminSide\AdminSide\bin\roslyn\System.AppContext.dll
+D:\LGT-Project\AdminSide\AdminSide\bin\roslyn\System.Collections.Immutable.dll
+D:\LGT-Project\AdminSide\AdminSide\bin\roslyn\System.Console.dll
+D:\LGT-Project\AdminSide\AdminSide\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\LGT-Project\AdminSide\AdminSide\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\LGT-Project\AdminSide\AdminSide\bin\roslyn\System.IO.Compression.dll
+D:\LGT-Project\AdminSide\AdminSide\bin\roslyn\System.IO.FileSystem.dll
+D:\LGT-Project\AdminSide\AdminSide\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\LGT-Project\AdminSide\AdminSide\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\LGT-Project\AdminSide\AdminSide\bin\roslyn\System.IO.Pipes.dll
+D:\LGT-Project\AdminSide\AdminSide\bin\roslyn\System.Reflection.Metadata.dll
+D:\LGT-Project\AdminSide\AdminSide\bin\roslyn\System.Security.AccessControl.dll
+D:\LGT-Project\AdminSide\AdminSide\bin\roslyn\System.Security.Claims.dll
+D:\LGT-Project\AdminSide\AdminSide\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\LGT-Project\AdminSide\AdminSide\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\LGT-Project\AdminSide\AdminSide\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\LGT-Project\AdminSide\AdminSide\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\LGT-Project\AdminSide\AdminSide\bin\roslyn\System.Security.Principal.Windows.dll
+D:\LGT-Project\AdminSide\AdminSide\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\LGT-Project\AdminSide\AdminSide\bin\roslyn\System.ValueTuple.dll
+D:\LGT-Project\AdminSide\AdminSide\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\LGT-Project\AdminSide\AdminSide\bin\roslyn\System.Xml.XmlDocument.dll
+D:\LGT-Project\AdminSide\AdminSide\bin\roslyn\System.Xml.XPath.dll
+D:\LGT-Project\AdminSide\AdminSide\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\LGT-Project\AdminSide\AdminSide\bin\roslyn\vbc.exe
+D:\LGT-Project\AdminSide\AdminSide\bin\roslyn\vbc.exe.config
+D:\LGT-Project\AdminSide\AdminSide\bin\roslyn\vbc.rsp
+D:\LGT-Project\AdminSide\AdminSide\bin\roslyn\VBCSCompiler.exe
+D:\LGT-Project\AdminSide\AdminSide\bin\roslyn\VBCSCompiler.exe.config
+D:\LGT-Project\AdminSide\AdminSide\bin\Antlr3.Runtime.dll
+D:\LGT-Project\AdminSide\AdminSide\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\LGT-Project\AdminSide\AdminSide\bin\Microsoft.Web.Infrastructure.dll
+D:\LGT-Project\AdminSide\AdminSide\bin\Newtonsoft.Json.dll
+D:\LGT-Project\AdminSide\AdminSide\bin\System.Web.Helpers.dll
+D:\LGT-Project\AdminSide\AdminSide\bin\System.Web.Mvc.dll
+D:\LGT-Project\AdminSide\AdminSide\bin\System.Web.Optimization.dll
+D:\LGT-Project\AdminSide\AdminSide\bin\System.Web.Razor.dll
+D:\LGT-Project\AdminSide\AdminSide\bin\System.Web.WebPages.Deployment.dll
+D:\LGT-Project\AdminSide\AdminSide\bin\System.Web.WebPages.dll
+D:\LGT-Project\AdminSide\AdminSide\bin\System.Web.WebPages.Razor.dll
+D:\LGT-Project\AdminSide\AdminSide\bin\WebGrease.dll
+D:\LGT-Project\AdminSide\AdminSide\bin\System.Web.Helpers.xml
+D:\LGT-Project\AdminSide\AdminSide\bin\System.Web.Mvc.xml
+D:\LGT-Project\AdminSide\AdminSide\bin\System.Web.Optimization.xml
+D:\LGT-Project\AdminSide\AdminSide\bin\System.Web.Razor.xml
+D:\LGT-Project\AdminSide\AdminSide\bin\System.Web.WebPages.xml
+D:\LGT-Project\AdminSide\AdminSide\bin\System.Web.WebPages.Deployment.xml
+D:\LGT-Project\AdminSide\AdminSide\bin\System.Web.WebPages.Razor.xml
+D:\LGT-Project\AdminSide\AdminSide\bin\Newtonsoft.Json.xml
+D:\LGT-Project\AdminSide\AdminSide\bin\Antlr3.Runtime.pdb
+D:\LGT-Project\AdminSide\AdminSide\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\LGT-Project\AdminSide\AdminSide\obj\Debug\AdminSide.csprojAssemblyReference.cache
+D:\LGT-Project\AdminSide\AdminSide\obj\Debug\AdminSide.csproj.CoreCompileInputs.cache
+D:\LGT-Project\AdminSide\AdminSide\obj\Debug\AdminSide.csproj.CopyComplete
+D:\LGT-Project\AdminSide\AdminSide\obj\Debug\AdminSide.dll
+D:\LGT-Project\AdminSide\AdminSide\obj\Debug\AdminSide.pdb
+D:\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\AdminSide.dll.config
+D:\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\AdminSide.dll
+D:\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\AdminSide.pdb
+D:\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\csc.exe
+D:\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\csc.exe.config
+D:\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\csc.rsp
+D:\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\csi.exe
+D:\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\csi.exe.config
+D:\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\csi.rsp
+D:\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\Microsoft.Managed.Core.targets
+D:\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\System.AppContext.dll
+D:\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\System.Collections.Immutable.dll
+D:\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\System.Console.dll
+D:\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\System.IO.Compression.dll
+D:\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\System.IO.FileSystem.dll
+D:\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\System.IO.Pipes.dll
+D:\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\System.Reflection.Metadata.dll
+D:\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\System.Security.AccessControl.dll
+D:\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\System.Security.Claims.dll
+D:\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\System.Security.Principal.Windows.dll
+D:\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\System.ValueTuple.dll
+D:\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\System.Xml.XmlDocument.dll
+D:\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\System.Xml.XPath.dll
+D:\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\vbc.exe
+D:\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\vbc.exe.config
+D:\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\vbc.rsp
+D:\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\VBCSCompiler.exe
+D:\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\VBCSCompiler.exe.config
+D:\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\Antlr3.Runtime.dll
+D:\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\Microsoft.Web.Infrastructure.dll
+D:\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\Newtonsoft.Json.dll
+D:\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\System.Web.Helpers.dll
+D:\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\System.Web.Mvc.dll
+D:\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\System.Web.Optimization.dll
+D:\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\System.Web.Razor.dll
+D:\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\System.Web.WebPages.Deployment.dll
+D:\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\System.Web.WebPages.dll
+D:\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\System.Web.WebPages.Razor.dll
+D:\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\WebGrease.dll
+D:\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\System.Web.Helpers.xml
+D:\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\System.Web.Mvc.xml
+D:\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\System.Web.Optimization.xml
+D:\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\System.Web.Razor.xml
+D:\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\System.Web.WebPages.xml
+D:\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\System.Web.WebPages.Deployment.xml
+D:\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\System.Web.WebPages.Razor.xml
+D:\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\Newtonsoft.Json.xml
+D:\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\Antlr3.Runtime.pdb
+D:\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\obj\Debug\AdminSide.csprojAssemblyReference.cache
+D:\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\obj\Debug\AdminSide.csproj.CoreCompileInputs.cache
+D:\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\obj\Debug\AdminSide.csproj.CopyComplete
+D:\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\obj\Debug\AdminSide.dll
+D:\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\obj\Debug\AdminSide.pdb
+D:\App-Project\.Net\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\AdminSide.dll.config
+D:\App-Project\.Net\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\AdminSide.dll
+D:\App-Project\.Net\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\AdminSide.pdb
+D:\App-Project\.Net\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\csc.exe
+D:\App-Project\.Net\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\csc.exe.config
+D:\App-Project\.Net\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\csc.rsp
+D:\App-Project\.Net\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\csi.exe
+D:\App-Project\.Net\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\csi.exe.config
+D:\App-Project\.Net\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\csi.rsp
+D:\App-Project\.Net\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\App-Project\.Net\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\App-Project\.Net\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\App-Project\.Net\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\App-Project\.Net\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\App-Project\.Net\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\App-Project\.Net\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\App-Project\.Net\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\App-Project\.Net\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\App-Project\.Net\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\Microsoft.Managed.Core.targets
+D:\App-Project\.Net\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\App-Project\.Net\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\System.AppContext.dll
+D:\App-Project\.Net\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\System.Collections.Immutable.dll
+D:\App-Project\.Net\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\System.Console.dll
+D:\App-Project\.Net\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\App-Project\.Net\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\App-Project\.Net\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\System.IO.Compression.dll
+D:\App-Project\.Net\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\System.IO.FileSystem.dll
+D:\App-Project\.Net\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\App-Project\.Net\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\App-Project\.Net\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\System.IO.Pipes.dll
+D:\App-Project\.Net\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\System.Reflection.Metadata.dll
+D:\App-Project\.Net\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\System.Security.AccessControl.dll
+D:\App-Project\.Net\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\System.Security.Claims.dll
+D:\App-Project\.Net\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\App-Project\.Net\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\App-Project\.Net\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\App-Project\.Net\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\App-Project\.Net\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\System.Security.Principal.Windows.dll
+D:\App-Project\.Net\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\App-Project\.Net\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\System.ValueTuple.dll
+D:\App-Project\.Net\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\App-Project\.Net\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\System.Xml.XmlDocument.dll
+D:\App-Project\.Net\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\System.Xml.XPath.dll
+D:\App-Project\.Net\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\App-Project\.Net\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\vbc.exe
+D:\App-Project\.Net\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\vbc.exe.config
+D:\App-Project\.Net\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\vbc.rsp
+D:\App-Project\.Net\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\VBCSCompiler.exe
+D:\App-Project\.Net\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\roslyn\VBCSCompiler.exe.config
+D:\App-Project\.Net\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\Antlr3.Runtime.dll
+D:\App-Project\.Net\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\App-Project\.Net\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\Microsoft.Web.Infrastructure.dll
+D:\App-Project\.Net\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\Newtonsoft.Json.dll
+D:\App-Project\.Net\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\System.Web.Helpers.dll
+D:\App-Project\.Net\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\System.Web.Mvc.dll
+D:\App-Project\.Net\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\System.Web.Optimization.dll
+D:\App-Project\.Net\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\System.Web.Razor.dll
+D:\App-Project\.Net\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\System.Web.WebPages.Deployment.dll
+D:\App-Project\.Net\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\System.Web.WebPages.dll
+D:\App-Project\.Net\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\System.Web.WebPages.Razor.dll
+D:\App-Project\.Net\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\WebGrease.dll
+D:\App-Project\.Net\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\System.Web.Helpers.xml
+D:\App-Project\.Net\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\System.Web.Mvc.xml
+D:\App-Project\.Net\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\System.Web.Optimization.xml
+D:\App-Project\.Net\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\System.Web.Razor.xml
+D:\App-Project\.Net\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\System.Web.WebPages.xml
+D:\App-Project\.Net\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\System.Web.WebPages.Deployment.xml
+D:\App-Project\.Net\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\System.Web.WebPages.Razor.xml
+D:\App-Project\.Net\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\Newtonsoft.Json.xml
+D:\App-Project\.Net\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\Antlr3.Runtime.pdb
+D:\App-Project\.Net\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\App-Project\.Net\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\obj\Debug\AdminSide.csprojAssemblyReference.cache
+D:\App-Project\.Net\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\obj\Debug\AdminSide.csproj.CoreCompileInputs.cache
+D:\App-Project\.Net\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\obj\Debug\AdminSide.csproj.CopyComplete
+D:\App-Project\.Net\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\obj\Debug\AdminSide.dll
+D:\App-Project\.Net\LGT-Project\FileChuongTrinh\LGT-Project\AdminSide\AdminSide\obj\Debug\AdminSide.pdb

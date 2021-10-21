@@ -1,0 +1,239 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>About us</title>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <meta name="description" content="BHost template project">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" type="text/css" href="../Assets/styles/bootstrap-4.1.2/bootstrap.min.css">
+    <link href="../Assets/plugins/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" type="text/css" href="../Assets/plugins/OwlCarousel2-2.2.1/owl.carousel.css">
+    <link rel="stylesheet" type="text/css" href="../Assets/plugins/OwlCarousel2-2.2.1/owl.theme.default.css">
+    <link rel="stylesheet" type="text/css" href="../Assets/plugins/OwlCarousel2-2.2.1/animate.css">
+    <link href="../Assets/plugins/video-js/video-js.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" type="text/css" href="../Assets/styles/about.css">
+    <link rel="stylesheet" type="text/css" href="../Assets/styles/about_responsive.css">
+
+    <!--Hình ảnh động-->
+    <style>
+        .roundedcorners {
+            -webkit-border-radius: 50px;
+            -khtml-border-radius: 50px;
+            -moz-border-radius: 50px;
+            border-radius: 50px;
+        }
+    </style>
+
+</head>
+<body>
+
+    <!-- Milestones -->
+
+    <div class="milestones">
+        <div class="container">
+            <div class="row">
+                <div class="col">
+                    <div class="milestones_container d-flex flex-lg-row flex-column align-items-center justify-content-lg-between justify-content-start">
+
+                        <!-- Milestone Item -->
+                        <div class="milestone d-flex flex-row align-items-center justify-content-start">
+                            <div class="milestone_icon"><img src="../Assets/images/icon_5.svg" alt="https://www.flaticon.com/authors/srip"></div>
+                            <div class="milestone_content">
+                                <div class="milestone_counter" data-end-value="12557">0</div>
+                                <div class="milestone_text">Đơn hàng/tháng được tạo</div>
+                            </div>
+                        </div>
+
+                        <!-- Milestone Item -->
+                        <div class="milestone d-flex flex-row align-items-center justify-content-start">
+                            <div class="milestone_icon"><img src="../Assets/images/icon_6.svg" alt="https://www.flaticon.com/authors/srip"></div>
+                            <div class="milestone_content">
+                                <div class="milestone_counter" data-end-value="100000" data-sign-before="+">0</div>
+                                <div class="milestone_text">
+                                    Khách hàng đã lựa chọn
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Milestone Item -->
+                        <div class="milestone d-flex flex-row align-items-center justify-content-start">
+                            <div class="milestone_icon"><img src="../Assets/images/icon_7.svg" alt="https://www.flaticon.com/authors/srip"></div>
+                            <div class="milestone_content">
+                                <div class="milestone_counter" data-end-value="14610">0</div>
+                                <div class="milestone_text">Fanpage được kết nối</div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- About -->
+
+    <div class="about">
+        <div class="container">
+            <div class="row row-lg-eq-height">
+
+                <!-- About Image -->
+                <div class="col-lg-6 order-lg-1 order-2">
+                    <div class="about_image d-flex flex-column align-items-center justify-content-center">
+                        <img src="../Assets/images/animation.gif" class="roundedcorners" alt="">
+                    </div>
+                </div>
+
+                <!-- About Content -->
+                <div class="col-lg-6 order-lg-2 order-1">
+                    <div class="about_content">
+                        <div class="section_title"><h2>Chúng tôi mang lại điều gì?</h2></div>
+                        <div class="about_text">
+                            <p>Logictics là dịch vụ giao hàng thu tiền hộ (COD) trong phạm vi 2 thành phố Hà Nội và thành phố Hồ Chí Minh, cùng với giao hàng chuyên tuyến Hà Nội - Sài Gòn. Đây cũng là dịch vụ mà Logictics hiện đang liên kết với Giaohangtietkiem để cung cấp cho khách hàng.</p>
+                        </div>
+                        <div class="button about_button"><a href="#">Tìm hiểu thêm</a></div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <!-- Video -->
+
+    <div class="video">
+        <div class="container">
+            <div class="row">
+                <div class="col">
+                    <div class="video_content">
+                        <div class="video_container_outer">
+                            <div class="video_overlay">
+                                <div class="video_text">Giới thiệu về Logictics - Cuộc sống tại Logictics</div>
+                            </div>
+                            <div class="video_container">
+                                <video id="vid1" class="video-js vjs-default-skin" controls width="100%" height="100%" data-setup='{ "poster": "images/video.jpg", "techOrder": ["youtube"], "sources": [{ "type": "video/youtube", "src": "https://youtu.be/IV3ueyrp5M4"}], "youtube": { "iv_load_policy": 1 } }'></video>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Team -->
+
+    <div class="team">
+        <div class="container">
+            <div class="row">
+                <div class="col">
+                    <div class="section_title_container text-center">
+                        <div class="section_title"><h2>Nhà phát triển</h2></div>
+                        <div class="team_text">
+                            <p>Đội ngũ phát triển chuyên nghiệp là tiền đề mang đến sự thành công cho doanh nghiệp cũng như khách hàng trải nghiệm sản phẩm của chúng tôi.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row team_row">
+
+                <!-- Team Item -->
+                <div class="col-xl-3 col-md-6">
+                    <div class="team_item">
+                        <div class="team_image">
+                            <img src="../Assets/images/team_1.jpg" @*alt="https://unsplash.com/@michaeldam*@ ">
+                            <div class="team_overlay trans_400"></div>
+                            <div class="team_social">
+                                <ul class="d-flex flex-row align-items-center justify-content-between">
+                                    <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="team_content text-center">
+                            <div class="team_name">TiNo-Anôxô</div>
+                            <div class="team_title">Team Manager</div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Team Item -->
+                <div class="col-xl-3 col-md-6">
+                    <div class="team_item">
+                        <div class="team_image">
+                            <img src="../Assets/images/team_2.jpg" @*alt="https://unsplash.com/@stairhopper*@ ">
+                            <div class="team_overlay trans_400"></div>
+                            <div class="team_social">
+                                <ul class="d-flex flex-row align-items-center justify-content-between">
+                                    <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="team_content text-center">
+                            <div class="team_name">Bảo Lương</div>
+                            <div class="team_title">Manager</div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Team Item -->
+                <div class="col-xl-3 col-md-6">
+                    <div class="team_item">
+                        <div class="team_image">
+                            <img src="../Assets/images/team_3.jpg" @*alt="https://unsplash.com/@chrisjoelcampbell*@ ">
+                            <div class="team_overlay trans_400"></div>
+                            <div class="team_social">
+                                <ul class="d-flex flex-row align-items-center justify-content-between">
+                                    <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="team_content text-center">
+                            <div class="team_name">Chi ạ</div>
+                            <div class="team_title">Project Manager</div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Team Item -->
+                <div class="col-xl-3 col-md-6">
+                    <div class="team_item">
+                        <div class="team_image">
+                            <img src="../Assets/images/cuoivl.jpg" @*alt="https://unsplash.com/@brookecagle*@ ">
+                            <div class="team_overlay trans_400"></div>
+
+                            <div class="team_social">
+                                <ul class="d-flex flex-row align-items-center justify-content-between">
+                                    <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="team_content text-center">
+                            <div class="team_name">Attack Nguyễn</div>
+                            <div class="team_title">Developer</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    </div>
+</body>
+</html>
+

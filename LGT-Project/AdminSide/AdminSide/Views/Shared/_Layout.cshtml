@@ -1,0 +1,230 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <<title>Delivery Fast</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="BHost template project">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="../Assets/styles/bootstrap-4.1.2/bootstrap.min.css">
+    <link href="../Assets/plugins/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" type="text/css" href="../Assets/plugins/OwlCarousel2-2.2.1/owl.carousel.css">
+    <link rel="stylesheet" type="text/css" href="../Assets/plugins/OwlCarousel2-2.2.1/owl.theme.default.css">
+    <link rel="stylesheet" type="text/css" href="../Assets/plugins/OwlCarousel2-2.2.1/animate.css">
+    <link rel="stylesheet" type="text/css" href="../Assets/styles/main_styles.css">
+    <link rel="stylesheet" type="text/css" href="../Assets/styles/responsive.css">
+
+
+    <link href="plugins/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" type="text/css" href="plugins/OwlCarousel2-2.2.1/owl.carousel.css">
+    <link rel="stylesheet" type="text/css" href="plugins/OwlCarousel2-2.2.1/owl.theme.default.css">
+    <link rel="stylesheet" type="text/css" href="plugins/OwlCarousel2-2.2.1/animate.css">
+    <link rel="stylesheet" type="text/css" href="styles/main_styles.css">
+    <link rel="stylesheet" type="text/css" href="styles/responsive.css">
+
+    <link href="../Assets/plugins/video-js/video-js.css" rel="stylesheet" type="text/css">
+
+
+    <!--FORM-->
+    <link href="https://fonts.googleapis.com/css?family=DM+Sans:300,400,700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="../Assets/fonts/icomoon/style.css">
+
+    <link rel="stylesheet" href="../Assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../Assets/css/bootstrap-datepicker.css">
+    <link rel="stylesheet" href="../Assets/css/jquery.fancybox.min.css">
+    <link rel="stylesheet" href="../Assets/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="../Assets/css/owl.theme.default.min.css">
+
+    @*<link rel="stylesheet" href="../Assets/fonts/flaticon/font/flaticon.css">*@
+
+    <link rel="stylesheet" href="../Assets/css/aos.css">
+
+    <!-- MAIN CSS -->
+    <link rel="stylesheet" href="../Assets/css/style.css">
+
+    @*<link rel="stylesheet" type="text/css" href="../Assets/styles/services.css">*@
+    <link rel="stylesheet" type="text/css" href="../Assets/styles/services_responsive.css">
+</head>
+<body>
+    <div class="super_container">
+        <!-- Header -->
+        <header class="header trans_400">
+            <div class="header_content d-flex flex-row align-items-center justify-content-start trans_400">
+                <div class="logo"><a href="@Url.Action("Index", "Home")"><span>D</span>elivery Fast</a></div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-10 offset-lg-2">
+                            <nav class="main_nav">
+                                <ul class="d-flex flex-row align-items-center justify-content-start">
+                                    <li><a href="@Url.Action("Index","Home")">Trang chủ</a></li>
+                                    <li><a href="@Url.Action("Index","AboutUs")">Giới thiệu</a></li>
+                                    <li><a href="@Url.Action("Index","Service")">Vận chuyển</a></li>
+                                    <li><a href="@Url.Action("Index","News")">Bản tin</a></li>
+                                    <li><a href="@Url.Action("Index","AboutUs")">Liên hệ</a></li>
+
+
+                                </ul>
+                            </nav>
+                        </div>
+                    </div>
+                </div>
+                <div class="header_right d-flex flex-row align-items-center justify-content-start">
+
+                    <!-- Header Links -->
+                    <div class="header_links">
+                        <ul class="d-flex flex-row align-items-center justify-content-start">
+                            <li><a href="#">Chat</a></li>
+                            <li><a href="#">Đăng nhập</a></li>
+                        </ul>
+                    </div>
+
+                    <!-- Phone -->
+                    <div class="phone d-flex flex-row align-items-center justify-content-start">
+                        <i class="fa fa-phone" aria-hidden="true"></i>
+                        <div>+84-99999 99</div>
+                    </div>
+
+                    <!-- Hamburger -->
+                    <div class="hamburger"><i class="fa fa-bars" aria-hidden="true"></i></div>
+                </div>
+            </div>
+        </header>
+
+        <!-- Menu -->
+        @*<div class="menu trans_500">
+            <div class="menu_content d-flex flex-column align-items-center justify-content-center">
+                <div class="menu_nav trans_500">
+                    <ul class="text-center">
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="about.html">About us</a></li>
+                        <li><a href="services.html">Services</a></li>
+                        <li><a href="blog.html">News</a></li>
+                        <li><a href="contact.html">Contact</a></li>
+                    </ul>
+                </div>
+                <div class="phone menu_phone d-flex flex-row align-items-center justify-content-start">
+                    <i class="fa fa-phone" aria-hidden="true"></i>
+                    <div>+84-33222 11</div>
+                </div>
+            </div>
+        </div>*@
+        @RenderBody()
+     <!-- Footer -->
+
+        <footer class="footer">
+            <div class="footer_phone d-flex flex-row align-items-center justify-content-sm-end justify-content-center">
+                <div>Chúng tôi luôn hỗ trợ 24/7</div>
+                <div class="d-flex flex-row align-items-center justify-content-start">
+                    <i class="fa fa-phone" aria-hidden="true"></i>
+                    <div>+84-99999 99</div>
+                </div>
+            </div>
+            <div class="footer_content">
+                <div class="container">
+                    <div class="row footer_row">
+
+                        <!-- Footer Column -->
+                        <div class="col-xl-3 col-md-6">
+                            <div class="footer_title">
+                                Điều khoản sử dụng
+                            </div>
+                            <div class="footer_list">
+                                <ul>
+                                    <li><a href="#">Quy định chung</a></li>
+                                    <li><a href="#">Quy định hình thức thanh toán</a></li>
+                                    <li><a href="#">Giao nhận/cài đặt</a></li>
+                                    <li><a href="#">Hủy/trả và hoàn tiền</a></li>
+                                    <li><a href="#">Bảo vệ thông tin cá nhân</a></li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <!-- Footer Column -->
+                        <div class="col-xl-3 col-md-6">
+                            <div class="footer_title">Dịch vụ của chúng tôi</div>
+                            <div class="footer_list">
+                                <ul>
+                                    <li><a href="#">Giao hàng</a></li>
+                                    <li><a href="#">Chuyển phát nhanh</a></li>
+                                    <li><a href="#">Giao hàng nhanh</a></li>
+                                    <li><a href="#">Giao hàng COD</a></li>
+                                    <li><a href="#">Viettel post</a></li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <!-- Footer Column -->
+                        <div class="col-xl-3 col-md-6">
+                            <div class="footer_title">Khác</div>
+                            <div class="footer_list">
+                                <ul>
+                                    <li><a href="#">Về chúng tôi</a></li>
+                                    <li><a href="#">Vận chuyển</a></li>
+                                    <li><a href="#">Dịch vụ</a></li>
+                                    <li><a href="#">Bản tin</a></li>
+                                    <li><a href="#">Liên lạc</a></li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <!-- Footer Column -->
+                        <div class="col-xl-3 col-md-6">
+                            <div class="logo footer_logo"><a href="@Url.Action("Index","Home")"><span>D</span>elivery Fast</a></div>
+                            <div class="footer_info">
+                                <ul>
+                                    <li class="d-flex flex-row align-items-start justify-content-start">
+                                        <div><div>Address</div></div>
+                                        <div>Lê Thị Hồng, Gò Vấp</div>
+                                    </li>
+                                    <li class="d-flex flex-row align-items-start justify-content-start">
+                                        <div><div>Phone</div></div>
+                                        <div>+84-962226959</div>
+                                    </li>
+                                    <li class="d-flex flex-row align-items-start justify-content-start">
+                                        <div><div>E-mail</div></div>
+                                        <div>Baoluongjob@gmail.com</div>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="cards">
+                                <ul class="d-flex flex-row align-items-start justify-content-start flex-wrap">
+                                    <li><a href="#"><img src="../Assets/images/card_1.png" alt=""></a></li>
+                                    <li><a href="#"><img src="../Assets/images/card_2.png" alt=""></a></li>
+                                    <li><a href="#"><img src="../Assets/images/card_3.png" alt=""></a></li>
+                                    <li><a href="#"><img src="../Assets/images/card_4.png" alt=""></a></li>
+                                    <li><a href="#"><img src="../Assets/images/card_5.png" alt=""></a></li>
+                                </ul>
+                            </div>
+                            <div class="social footer_social">
+                                <ul class="d-flex flex-row align-items-center justify-content-start">
+                                    <li><a href="#"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-dribbble" aria-hidden="true"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-behance" aria-hidden="true"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <script src="../Assets/js/jquery-3.2.1.min.js"></script>
+    <script src="../Assets/styles/bootstrap-4.1.2/popper.js"></script>
+    <script src="../Assets/styles/bootstrap-4.1.2/bootstrap.min.js"></script>
+    <script src="../Assets/plugins/greensock/TweenMax.min.js"></script>
+    <script src="../Assets/plugins/greensock/TimelineMax.min.js"></script>
+    <script src="../Assets/plugins/scrollmagic/ScrollMagic.min.js"></script>
+    <script src="../Assets/plugins/greensock/animation.gsap.min.js"></script>
+    <script src="../Assets/plugins/greensock/ScrollToPlugin.min.js"></script>
+    <script src="../Assets/plugins/OwlCarousel2-2.2.1/owl.carousel.js"></script>
+    <script src="../Assets/plugins/easing/easing.js"></script>
+    <script src="../Assets/plugins/progressbar/progressbar.min.js"></script>
+    <script src="../Assets/plugins/parallax-js-master/parallax.min.js"></script>
+    <script src="../Assets/js/custom.js"></script>
+</body>
+</html>

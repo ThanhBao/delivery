@@ -1,0 +1,98 @@
+﻿@model LGT_Project.Models.Driver
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Người giao hàng</h2>
+
+<h3>Bạn có thực sự muốn xóa bảng ghi này?</h3>
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Họ :
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FirstName)
+        </dd>
+
+        <dt>
+            Tên :
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LastName)
+        </dd>
+
+        <dt>
+            Trạng thái :
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Status)
+        </dd>
+
+        <dt>
+            Số điện thoại :
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Phone)
+        </dd>
+
+        <dt>
+            Bằng lái xe :
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Driver_License)
+        </dd>
+
+        <dt>
+            Mã bằng lái xe :
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LicenseType.License_ID)
+        </dd>
+
+        <dt>
+            Lưu ý :
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Order.Notes)
+        </dd>
+
+        <dt>
+            Tên phương tiện :
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Transport.TransportName)
+        </dd>
+
+        <dt>
+            Tên hãng sản xuất :
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Transport1.TransportName)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-danger" /> |
+            @Html.ActionLink("Back to List", "Index", "Deliver", new { @class = "btn btn-success" })
+        </div>
+    }
+</div>
+
+

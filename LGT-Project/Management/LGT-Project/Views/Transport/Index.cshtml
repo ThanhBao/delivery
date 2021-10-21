@@ -1,0 +1,88 @@
+﻿@model IEnumerable<LGT_Project.Models.Transport>
+@{
+    ViewBag.Title = "Phương Tiện";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Phương tiện</h2>
+
+<p>
+    <a href="@Url.Action("Create", "Transport")" class="btn btn-primary"><i class="fa fa-plus"></i> Tạo mới</a>
+</p>
+<table class="table">
+    <tr>
+        <th>
+            Tên xe
+        </th>
+        <th>
+            Hãng xe
+        </th>
+        <th>
+            Năm Sx
+        </th>
+        <th>
+            Bảng số xe
+        </th>
+        <th>
+            Tải trọng (kg)
+        </th>
+        <th>
+            Yêu cầu bằng lái
+        </th>
+        <th>
+            Tình trạng xe
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.TransportName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Manafacturer)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TransportModel)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.LicensePlate)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Weight)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.License_Required)
+        </td>
+        @if (item.Status == true)
+        {
+            <td>
+                <span class="badge badge-info">Đang bảo trì</span>
+            </td>
+        }
+        else
+        {
+            <td>
+                <span class="badge badge-light">Hoạt động</span>
+            </td>
+        }
+
+        <td>
+            <a class="btn btn-sm btn-primary" href="@Url.Action("Edit", "Transport", new { id = item.Transport_ID })" aria-label="Edit">
+                <i class="fa fa-edit" aria-hidden="true"></i>
+            </a>
+            <a class="btn btn-sm btn-info" href="@Url.Action("Details", "Transport", new { id = item.Transport_ID })" aria-label="Details">
+                <i class="fa fa-info" aria-hidden="true"></i>
+            </a>
+            <a class="btn btn-sm btn-danger" href="@Url.Action("Delete", "Transport", new { id = item.Transport_ID })" aria-label="Delete">
+                <i class="fa fa-trash-o" aria-hidden="true"></i>
+            </a>
+        </td>
+    </tr>
+    }
+
+</table>
+
+

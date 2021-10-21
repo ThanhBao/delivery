@@ -1,0 +1,91 @@
+﻿@model IEnumerable<LGT_Project.Models.Order>
+@{
+    ViewBag.Title = "Đơn hàng";
+}
+
+<table class="table table-hover">
+    <tr>
+        <th>
+            Tên khách hàng
+        </th>
+        <th>
+            Số điện thoại
+        </th>
+        <th>
+            Địa chỉ
+        </th>
+        <th>
+            Họ tên người nhận
+        </th>
+        <th>
+            Số điện thoại người nhận
+        </th>
+        <th>
+            Địa chỉ người nhận
+        </th>
+        <th>
+            Ngày đặt hàng
+        </th>
+        <th>
+            Tình trạng
+        </th>
+        <th>
+            Xem chi tiết
+        </th>
+
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Customer.First_Name) @Html.DisplayFor(modelItem => item.Customer.Last_Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Customer.Mobile1)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Customer.Address1)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ShippingDetail.FirstName) @Html.DisplayFor(modelItem => item.ShippingDetail.LastName)
+
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ShippingDetail.Mobile)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TotalAmount)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.OrderDate)
+            </td>
+            @if (item.Shipped == true)
+            {
+                <td>
+                    <span class="badge badge-info">đã giao hàng</span>
+                </td>
+            }
+            else
+            {
+                <td>
+                    <span class="badge badge-light">chưa thanh toán</span>
+                </td>
+            }
+
+            <td>
+                <a class="btn btn-sm btn-primary" href="@Url.Action("Edit", "Order", new { id = item.OrderID })" aria-label="Edit">
+                    <i class="fa fa-edit" aria-hidden="true"></i>
+                </a>
+                <a class="btn btn-sm btn-info" href="@Url.Action("Details", "Order", new { id = item.OrderID })" aria-label="Details">
+                    <i class="fa fa-info" aria-hidden="true"></i>
+                </a>
+            </td>
+
+        </tr>
+    }
+
+</table>
+
+

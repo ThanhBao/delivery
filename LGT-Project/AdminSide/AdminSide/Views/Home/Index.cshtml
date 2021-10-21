@@ -1,0 +1,431 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <link rel="stylesheet" type="text/css" href="../Assets/styles/bootstrap-4.1.2/bootstrap.min.css">
+    <link href="../Assets/plugins/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" type="text/css" href="../Assets/plugins/OwlCarousel2-2.2.1/owl.carousel.css">
+    <link rel="stylesheet" type="text/css" href="../Assets/plugins/OwlCarousel2-2.2.1/owl.theme.default.css">
+    <link rel="stylesheet" type="text/css" href="../Assets/plugins/OwlCarousel2-2.2.1/animate.css">
+    <link rel="stylesheet" type="text/css" href="../Assets/styles/main_styles.css">
+    <link rel="stylesheet" type="text/css" href="../Assets/styles/responsive.css">
+
+</head>
+<body>
+
+    <!-- Home -->
+    <div class="home">
+        <div class="parallax_background parallax-window" data-parallax="scroll" data-image-src="../Assets/images/inde.jpg" data-speed="0.8"></div>
+        <div class="home_container">
+            <div class="container">
+                <div class="row">
+                    <div class="col">
+                        <div class="home_content text-center">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Domain Pricing -->
+
+    <div class="domain_pricing">
+        <div class="container">
+            <div class="row">
+                <div class="col"></div>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="site-section pt-0 pb-0 bg-light">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <form class="trip-form">
+                        <div class="row align-items-center mb-4">
+                            <div class="col-md-6">
+                                <h3 class="m-0">Hãy bắt đầu gửi kiện hàng của bạn tại đây !</h3>
+                            </div>
+
+                            @*<div class="col-md-6 text-md-right">
+                                    <span class="text-primary">32</span> <span>cars available</span></span>
+                                </div>*@
+                        </div>
+                        <div class="row">
+                            <div class="form-group col-md-3">
+                                <label for="cf-1">Họ tên người gửi</label>
+                                <br />
+                                <input type="text" id="cf-1" class="form-control">
+                            </div>
+                            <div class="form-group col-md-3">
+                                <label for="cf-2">Địa chỉ</label>
+                                <br />
+                                <input type="text" id="cf-2" class="form-control">
+                            </div>
+                            <div class="form-group col-md-3">
+                                <label for="cf-3">Số điện thoại</label>
+                                <br />
+                                <input type="text" id="cf-3" class="form-control datepicker px-3">
+                            </div>
+                            <div class="form-group col-md-3">
+                                <label for="cf-4">Khối lượng</label>
+                                <br />
+                                <input type="text" id="cf-4" class="form-control datepicker px-3">
+                            </div>
+                        </div>
+
+
+                        <div class="row">
+                            <div class="form-group col-md-3">
+                                <label for="cf-1">Họ tên người nhận</label>
+                                <br />
+                                <input type="text" id="cf-1" class="form-control">
+                            </div>
+                            <div class="form-group col-md-3">
+                                <label for="cf-2">Địa chỉ</label>
+                                <br />
+                                <input type="text" id="cf-2" class="form-control">
+                            </div>
+                            <div class="form-group col-md-3">
+                                <label for="cf-3">Số điện thoại</label>
+                                <br />
+                                <input type="text" id="cf-3" class="form-control datepicker px-3">
+                            </div>
+                            <div class="form-group col-md-3">
+                                <label for="cf-3">Tiền thu hộ</label>
+                                <br />
+                                <input type="text" id="cf-3" class="form-control datepicker px-3">
+                            </div>
+                        </div>
+
+
+                        <div class="row">
+                            <div class="col-lg-6">
+                                <button>
+                                    <a href="@Url.Action("Index", "TranSportFee", new { id = UrlParameter.Optional })">Tạo Đơn</a>
+                                </button>
+                            </div>
+                            <div class="col-lg-6">
+                                <button>
+                                    <a href="@Url.Action("Index", "TranSportFee", new { id = UrlParameter.Optional })">Tra Cuoc</a>
+                                </button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- Pricing -->
+
+    <div class="pricing">
+        <div class="container">
+            <div class="row">
+                <div class="col">
+                    <div class="section_title_container text-center">
+                        <div class="section_title"><h2>Một số gói cho bạn</h2></div>
+                        <div class="section_subtitle">Chúng tôi cung cấp một số gói hữu ích giúp cho bạn có trải nghiệm tốt nhất tại ứng dụng của chúng tôi</div>
+                    </div>
+                </div>
+            </div>
+            <div class="row pricing_row">
+
+                <!-- Pricing Item -->
+                <div class="col-lg-4">
+                    <div class="pricing_item trans_200">
+                        <div class="pricing_item_background trans_200"></div>
+                        <div class="pricing_title_container d-flex flex-column align-items-center justify-content-start">
+                            <div class="pricing_title_background trans_200">
+                                <svg class="waves" width="100%" height="100%" viewBox="0 0 1920 218" preserveAspectRatio="none">
+                                    <path class="wave_path trans_200" fill="url(#grad_1)" d="M0,0 V210 S500,218 860,193  S1400,125 1920,155 V0 H0"></path>
+                                    <defs>
+                                        <linearGradient id="grad_1">
+                                            <stop offset="0%" stop-color="#487fee" />
+                                            <stop offset="100%" stop-color="#b632fa" />
+                                        </linearGradient>
+                                        <linearGradient id="grad_2">
+                                            <stop offset="0%" stop-color="#9cb9f6" />
+                                            <stop offset="100%" stop-color="#d691fc" />
+                                        </linearGradient>
+                                    </defs>
+                                </svg>
+                            </div>
+                            <div class="pricing_title">Gói cơ bản</div>
+                            <div class="pricing_price">$9<span>90</span><div>Always</div></div>
+                            @*<div class="pricing_price">$29<span>90</span><div>Per Month</div></div>*@
+
+                        </div>
+                        <div class="pricing_content d-flex flex-column align-items-center justify-content-start">
+                            <div class="pricing_list">
+                                <ul class="d-flex flex-column align-items-center justify-content-start">
+                                    <li class="d-flex flex-row align-items-center justify-content-start">
+                                        <div class="pricing_icon d-flex flex-column align-items-center justify-content-center">
+                                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 26 26" enable-background="new 0 0 26 26" width="26px" height="26px">
+                                                <path class="check_svg trans_200" d="m.3,14c-0.2-0.2-0.3-0.5-0.3-0.7s0.1-0.5 0.3-0.7l1.4-1.4c0.4-0.4 1-0.4 1.4,0l.1,.1 5.5,5.9c0.2,0.2 0.5,0.2 0.7,0l13.4-13.9h0.1v-8.88178e-16c0.4-0.4 1-0.4 1.4,0l1.4,1.4c0.4,0.4 0.4,1 0,1.4l0,0-16,16.6c-0.2,0.2-0.4,0.3-0.7,0.3-0.3,0-0.5-0.1-0.7-0.3l-7.8-8.4-.2-.3z" fill="#606ef1" />
+                                            </svg>
+                                        </div>
+                                        <div>Thời gian từ 3-5 ngày</div>
+                                    </li>
+                                    <li class="d-flex flex-row align-items-center justify-content-start">
+                                        <div class="pricing_icon d-flex flex-column align-items-center justify-content-center">
+                                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 26 26" enable-background="new 0 0 26 26" width="26px" height="26px">
+                                                <path class="check_svg trans_200" d="m.3,14c-0.2-0.2-0.3-0.5-0.3-0.7s0.1-0.5 0.3-0.7l1.4-1.4c0.4-0.4 1-0.4 1.4,0l.1,.1 5.5,5.9c0.2,0.2 0.5,0.2 0.7,0l13.4-13.9h0.1v-8.88178e-16c0.4-0.4 1-0.4 1.4,0l1.4,1.4c0.4,0.4 0.4,1 0,1.4l0,0-16,16.6c-0.2,0.2-0.4,0.3-0.7,0.3-0.3,0-0.5-0.1-0.7-0.3l-7.8-8.4-.2-.3z" fill="#606ef1" />
+                                            </svg>
+                                        </div>
+                                        <div>Đảm bảo an toàn</div>
+                                    </li>
+                                    <li class="d-flex flex-row align-items-center justify-content-start">
+                                        <div class="pricing_icon d-flex flex-column align-items-center justify-content-center">
+                                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 26 26" enable-background="new 0 0 26 26" width="26px" height="26px">
+                                                <path class="check_svg trans_200" d="m.3,14c-0.2-0.2-0.3-0.5-0.3-0.7s0.1-0.5 0.3-0.7l1.4-1.4c0.4-0.4 1-0.4 1.4,0l.1,.1 5.5,5.9c0.2,0.2 0.5,0.2 0.7,0l13.4-13.9h0.1v-8.88178e-16c0.4-0.4 1-0.4 1.4,0l1.4,1.4c0.4,0.4 0.4,1 0,1.4l0,0-16,16.6c-0.2,0.2-0.4,0.3-0.7,0.3-0.3,0-0.5-0.1-0.7-0.3l-7.8-8.4-.2-.3z" fill="#606ef1" />
+                                            </svg>
+                                        </div>
+                                        <div>Hỗ trợ 24h</div>
+                                    </li>
+                                    <li class="d-flex flex-row align-items-center justify-content-start">
+                                        <div class="pricing_icon d-flex flex-column align-items-center justify-content-center">
+                                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 26 26" enable-background="new 0 0 26 26" width="26px" height="26px">
+                                                <path class="check_svg trans_200" d="m.3,14c-0.2-0.2-0.3-0.5-0.3-0.7s0.1-0.5 0.3-0.7l1.4-1.4c0.4-0.4 1-0.4 1.4,0l.1,.1 5.5,5.9c0.2,0.2 0.5,0.2 0.7,0l13.4-13.9h0.1v-8.88178e-16c0.4-0.4 1-0.4 1.4,0l1.4,1.4c0.4,0.4 0.4,1 0,1.4l0,0-16,16.6c-0.2,0.2-0.4,0.3-0.7,0.3-0.3,0-0.5-0.1-0.7-0.3l-7.8-8.4-.2-.3z" fill="#606ef1" />
+                                            </svg>
+                                        </div>
+                                        <div>Theo dõi tình trạng đơn hàng</div>
+                                    </li>
+                                    <li class="d-flex flex-row align-items-center justify-content-start">
+                                        <div>X</div>
+                                        <div>Giá phù hợp</div>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="pricing_info"><a href="#"><div>i</div></a></div>
+                            <div class="button pricing_button trans_200"><a href="#">Đặt hàng</a></div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Pricing Item -->
+                <div class="col-lg-4">
+                    <div class="pricing_item trans_200">
+                        <div class="pricing_item_background trans_200"></div>
+                        <div class="pricing_title_container d-flex flex-column align-items-center justify-content-start">
+                            <div class="pricing_title_background trans_200">
+                                <svg class="waves" width="100%" height="100%" viewBox="0 0 1920 218" preserveAspectRatio="none">
+                                    <path class="wave_path trans_200" fill="url(#grad_1)" d="M0,0 V210 S500,218 860,193  S1400,125 1920,155 V0 H0"></path>
+                                </svg>
+                            </div>
+                            <div class="pricing_title">Gói siêu tốc</div>
+                            <div class="pricing_price">$29<span>90</span><div>Per Month</div></div>
+                        </div>
+                        <div class="pricing_content d-flex flex-column align-items-center justify-content-start">
+                            <div class="pricing_list">
+                                <ul class="d-flex flex-column align-items-center justify-content-start">
+                                    <li class="d-flex flex-row align-items-center justify-content-start">
+                                        <div class="pricing_icon d-flex flex-column align-items-center justify-content-center">
+                                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 26 26" enable-background="new 0 0 26 26" width="26px" height="26px">
+                                                <path class="check_svg trans_200" d="m.3,14c-0.2-0.2-0.3-0.5-0.3-0.7s0.1-0.5 0.3-0.7l1.4-1.4c0.4-0.4 1-0.4 1.4,0l.1,.1 5.5,5.9c0.2,0.2 0.5,0.2 0.7,0l13.4-13.9h0.1v-8.88178e-16c0.4-0.4 1-0.4 1.4,0l1.4,1.4c0.4,0.4 0.4,1 0,1.4l0,0-16,16.6c-0.2,0.2-0.4,0.3-0.7,0.3-0.3,0-0.5-0.1-0.7-0.3l-7.8-8.4-.2-.3z" fill="#606ef1" />
+                                            </svg>
+                                        </div>
+                                        <div>Thời gian giao trong 3 giờ</div>
+                                    </li>
+                                    <li class="d-flex flex-row align-items-center justify-content-start">
+                                        <div class="pricing_icon d-flex flex-column align-items-center justify-content-center">
+                                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 26 26" enable-background="new 0 0 26 26" width="26px" height="26px">
+                                                <path class="check_svg trans_200" d="m.3,14c-0.2-0.2-0.3-0.5-0.3-0.7s0.1-0.5 0.3-0.7l1.4-1.4c0.4-0.4 1-0.4 1.4,0l.1,.1 5.5,5.9c0.2,0.2 0.5,0.2 0.7,0l13.4-13.9h0.1v-8.88178e-16c0.4-0.4 1-0.4 1.4,0l1.4,1.4c0.4,0.4 0.4,1 0,1.4l0,0-16,16.6c-0.2,0.2-0.4,0.3-0.7,0.3-0.3,0-0.5-0.1-0.7-0.3l-7.8-8.4-.2-.3z" fill="#606ef1" />
+                                            </svg>
+                                        </div>
+                                        <div>An toàn tuyệt đối</div>
+                                    </li>
+                                    <li class="d-flex flex-row align-items-center justify-content-start">
+                                        <div class="pricing_icon d-flex flex-column align-items-center justify-content-center">
+                                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 26 26" enable-background="new 0 0 26 26" width="26px" height="26px">
+                                                <path class="check_svg trans_200" d="m.3,14c-0.2-0.2-0.3-0.5-0.3-0.7s0.1-0.5 0.3-0.7l1.4-1.4c0.4-0.4 1-0.4 1.4,0l.1,.1 5.5,5.9c0.2,0.2 0.5,0.2 0.7,0l13.4-13.9h0.1v-8.88178e-16c0.4-0.4 1-0.4 1.4,0l1.4,1.4c0.4,0.4 0.4,1 0,1.4l0,0-16,16.6c-0.2,0.2-0.4,0.3-0.7,0.3-0.3,0-0.5-0.1-0.7-0.3l-7.8-8.4-.2-.3z" fill="#606ef1" />
+                                            </svg>
+                                        </div>
+                                        <div>Hỗ trợ 24h</div>
+                                    </li>
+                                    <li class="d-flex flex-row align-items-center justify-content-start">
+                                        <div class="pricing_icon d-flex flex-column align-items-center justify-content-center">
+                                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 26 26" enable-background="new 0 0 26 26" width="26px" height="26px">
+                                                <path class="check_svg trans_200" d="m.3,14c-0.2-0.2-0.3-0.5-0.3-0.7s0.1-0.5 0.3-0.7l1.4-1.4c0.4-0.4 1-0.4 1.4,0l.1,.1 5.5,5.9c0.2,0.2 0.5,0.2 0.7,0l13.4-13.9h0.1v-8.88178e-16c0.4-0.4 1-0.4 1.4,0l1.4,1.4c0.4,0.4 0.4,1 0,1.4l0,0-16,16.6c-0.2,0.2-0.4,0.3-0.7,0.3-0.3,0-0.5-0.1-0.7-0.3l-7.8-8.4-.2-.3z" fill="#606ef1" />
+                                            </svg>
+                                        </div>
+                                        <div>Kiểm tra đơn hàng thường xuyên</div>
+                                    </li>
+                                    <li class="d-flex flex-row align-items-center justify-content-start">
+                                        <div class="pricing_icon d-flex flex-column align-items-center justify-content-center">
+                                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 26 26" enable-background="new 0 0 26 26" width="26px" height="26px">
+                                                <path class="check_svg trans_200" d="m.3,14c-0.2-0.2-0.3-0.5-0.3-0.7s0.1-0.5 0.3-0.7l1.4-1.4c0.4-0.4 1-0.4 1.4,0l.1,.1 5.5,5.9c0.2,0.2 0.5,0.2 0.7,0l13.4-13.9h0.1v-8.88178e-16c0.4-0.4 1-0.4 1.4,0l1.4,1.4c0.4,0.4 0.4,1 0,1.4l0,0-16,16.6c-0.2,0.2-0.4,0.3-0.7,0.3-0.3,0-0.5-0.1-0.7-0.3l-7.8-8.4-.2-.3z" fill="#606ef1" />
+                                            </svg>
+                                        </div>
+                                        <div>Giá cả rẻ hơn</div>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="pricing_info"><a href="#"><div>i</div></a></div>
+                            <div class="button pricing_button trans_200"><a href="#">Đặt hàng</a></div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Pricing Item -->
+                <div class="col-lg-4">
+                    <div class="pricing_item trans_200">
+                        <div class="pricing_item_background trans_200"></div>
+                        <div class="pricing_title_container d-flex flex-column align-items-center justify-content-start">
+                            <div class="pricing_title_background trans_200">
+                                <svg class="waves" width="100%" height="100%" viewBox="0 0 1920 218" preserveAspectRatio="none">
+                                    <path class="wave_path trans_200" fill="url(#grad_1)" d="M0,0 V210 S500,218 860,193  S1400,125 1920,155 V0 H0"></path>
+                                </svg>
+                            </div>
+                            <div class="pricing_title">Gói hằng tháng</div>
+                            <div class="pricing_price">$59<span>90</span><div>Per Month</div></div>
+                        </div>
+                        <div class="pricing_content d-flex flex-column align-items-center justify-content-start">
+                            <div class="pricing_list">
+                                <ul class="d-flex flex-column align-items-center justify-content-start">
+                                    <li class="d-flex flex-row align-items-center justify-content-start">
+                                        <div class="pricing_icon d-flex flex-column align-items-center justify-content-center">
+                                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 26 26" enable-background="new 0 0 26 26" width="26px" height="26px">
+                                                <path class="check_svg trans_200" d="m.3,14c-0.2-0.2-0.3-0.5-0.3-0.7s0.1-0.5 0.3-0.7l1.4-1.4c0.4-0.4 1-0.4 1.4,0l.1,.1 5.5,5.9c0.2,0.2 0.5,0.2 0.7,0l13.4-13.9h0.1v-8.88178e-16c0.4-0.4 1-0.4 1.4,0l1.4,1.4c0.4,0.4 0.4,1 0,1.4l0,0-16,16.6c-0.2,0.2-0.4,0.3-0.7,0.3-0.3,0-0.5-0.1-0.7-0.3l-7.8-8.4-.2-.3z" fill="#606ef1" />
+                                            </svg>
+                                        </div>
+                                        <div>Thời gian giao hàng trong 2 giờ</div>
+                                    </li>
+                                    <li class="d-flex flex-row align-items-center justify-content-start">
+                                        <div class="pricing_icon d-flex flex-column align-items-center justify-content-center">
+                                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 26 26" enable-background="new 0 0 26 26" width="26px" height="26px">
+                                                <path class="check_svg trans_200" d="m.3,14c-0.2-0.2-0.3-0.5-0.3-0.7s0.1-0.5 0.3-0.7l1.4-1.4c0.4-0.4 1-0.4 1.4,0l.1,.1 5.5,5.9c0.2,0.2 0.5,0.2 0.7,0l13.4-13.9h0.1v-8.88178e-16c0.4-0.4 1-0.4 1.4,0l1.4,1.4c0.4,0.4 0.4,1 0,1.4l0,0-16,16.6c-0.2,0.2-0.4,0.3-0.7,0.3-0.3,0-0.5-0.1-0.7-0.3l-7.8-8.4-.2-.3z" fill="#606ef1" />
+                                            </svg>
+                                        </div>
+                                        <div>An toàn tuyệt đối</div>
+                                    </li>
+                                    <li class="d-flex flex-row align-items-center justify-content-start">
+                                        <div class="pricing_icon d-flex flex-column align-items-center justify-content-center">
+                                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 26 26" enable-background="new 0 0 26 26" width="26px" height="26px">
+                                                <path class="check_svg trans_200" d="m.3,14c-0.2-0.2-0.3-0.5-0.3-0.7s0.1-0.5 0.3-0.7l1.4-1.4c0.4-0.4 1-0.4 1.4,0l.1,.1 5.5,5.9c0.2,0.2 0.5,0.2 0.7,0l13.4-13.9h0.1v-8.88178e-16c0.4-0.4 1-0.4 1.4,0l1.4,1.4c0.4,0.4 0.4,1 0,1.4l0,0-16,16.6c-0.2,0.2-0.4,0.3-0.7,0.3-0.3,0-0.5-0.1-0.7-0.3l-7.8-8.4-.2-.3z" fill="#606ef1" />
+                                            </svg>
+                                        </div>
+                                        <div>Luôn hỗ trợ 24h</div>
+                                    </li>
+                                    <li class="d-flex flex-row align-items-center justify-content-start">
+                                        <div class="pricing_icon d-flex flex-column align-items-center justify-content-center">
+                                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 26 26" enable-background="new 0 0 26 26" width="26px" height="26px">
+                                                <path class="check_svg trans_200" d="m.3,14c-0.2-0.2-0.3-0.5-0.3-0.7s0.1-0.5 0.3-0.7l1.4-1.4c0.4-0.4 1-0.4 1.4,0l.1,.1 5.5,5.9c0.2,0.2 0.5,0.2 0.7,0l13.4-13.9h0.1v-8.88178e-16c0.4-0.4 1-0.4 1.4,0l1.4,1.4c0.4,0.4 0.4,1 0,1.4l0,0-16,16.6c-0.2,0.2-0.4,0.3-0.7,0.3-0.3,0-0.5-0.1-0.7-0.3l-7.8-8.4-.2-.3z" fill="#606ef1" />
+                                            </svg>
+                                        </div>
+                                        <div>Kiểm tra hơn hàng thường xuyên</div>
+                                    </li>
+                                    <li class="d-flex flex-row align-items-center justify-content-start">
+                                        <div class="pricing_icon d-flex flex-column align-items-center justify-content-center">
+                                            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 26 26" enable-background="new 0 0 26 26" width="26px" height="26px">
+                                                <path class="check_svg trans_200" d="m.3,14c-0.2-0.2-0.3-0.5-0.3-0.7s0.1-0.5 0.3-0.7l1.4-1.4c0.4-0.4 1-0.4 1.4,0l.1,.1 5.5,5.9c0.2,0.2 0.5,0.2 0.7,0l13.4-13.9h0.1v-8.88178e-16c0.4-0.4 1-0.4 1.4,0l1.4,1.4c0.4,0.4 0.4,1 0,1.4l0,0-16,16.6c-0.2,0.2-0.4,0.3-0.7,0.3-0.3,0-0.5-0.1-0.7-0.3l-7.8-8.4-.2-.3z" fill="#606ef1" />
+                                            </svg>
+                                        </div>
+                                        <div>Giá cực khủng</div>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="pricing_info"><a href="#"><div>i</div></a></div>
+                            <div class="button pricing_button trans_200"><a href="#">Đặt hàng</a></div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <div class="row">
+                <div class="col-lg-10 offset-lg-1">
+                    <div class="pricing_text text-center">
+                        <p> DFast được đúc kết từ kinh nghiệm trong gần 10 năm của 80.000+ nhà bán hàng, sẽ giúp bạn tiết kiệm thời gian và kinh doanh hiệu quả</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Content Right -->
+
+    <div class="c_right">
+        <div class="container">
+            <div class="row row-lg-eq-height">
+
+                <!-- Content Right Image -->
+                <div class="col-lg-6 c_right_col order-lg-1 order-2">
+                    <div class="c_right_image d-flex flex-column align-items-center justify-content-center">
+                        <img src="../Assets/images/pic_1.png" alt="">
+                    </div>
+                </div>
+
+                <!-- Content Right Content -->
+                <div class="col-lg-6 order-lg-2 order-1">
+                    <div class="c_right_content">
+                        <div class="section_title_container">
+                            <div class="section_title"><h2>Quản lý đơn hàng tập trung</h2></div>
+                        </div>
+                        <div class="c_right_text">
+                            <p>Hỗ trợ sự cố trong quá trình chuyển hàng: chậm lấy hàng, chậm phát hàng, không liên lạc được khách, hủy đơn, kiểm tra lịch trình vận đơn, lưu kho, hoàn hàng về, đền bù khi mất hàng</p>
+                        </div>
+                        <div class="content_list_1 c_right_list">
+                            <ul>
+                                <li>Quản lý đơn hàng từ tất cả các nguồn tại 1 nơi</li>
+                                <li>Quản lý tất cả các hãng vận chuyển tại 1 nơi</li>
+                                <li>Theo dõi vận đơn dễ dàng</li>
+                            </ul>
+                        </div>
+                        <div class="button c_right_button"><a href="#">Tạo đơn</a></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Content Left -->
+
+    <div class="c_left">
+        <div class="container">
+            <div class="row row-lg-eq-height">
+
+                <!-- Content Left Content -->
+                <div class="col-lg-6">
+                    <div class="c_left_content">
+                        <div class="section_title_container">
+                            <div class="section_title"><h2>Nhận tiền COD hàng ngày</h2></div>
+                        </div>
+                        <div class="content_list_2 c_left_list">
+                            <ul>
+                                <li class="d-flex flex-row align-items-start justify-content-start">
+                                    <div><div>01.</div></div>
+                                    <p>Nhận tiền thu hộ CoD hàng ngày không lo đọng vốn qua trực tiếp tài khoản ngân hàng của bạn</p>
+                                </li>
+                                <li class="d-flex flex-row align-items-start justify-content-start">
+                                    <div><div>02.</div></div>
+                                    <p>Bảng kê chi tiết các lần thanh toán rõ ràng</p>
+                                </li>
+                                <li class="d-flex flex-row align-items-start justify-content-start">
+                                    <div><div>03.</div></div>
+                                    <p>Dễ dàng kiểm tra tình trạng thanh toán của từng đơn hàng, quên đi nỗi lo nhập nhằng thanh toán</p>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="button c_left_button"><a href="#">Tạo đơn</a></div>
+                    </div>
+                </div>
+
+                <!-- Content Left Image -->
+                <div class="col-lg-6 c_left_col">
+                    <div class="c_left_image d-flex flex-column align-items-center justify-content-center">
+                        <img src="../Assets/images/pic_2.png" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>

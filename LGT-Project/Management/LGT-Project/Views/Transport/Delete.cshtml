@@ -1,0 +1,80 @@
+﻿@model LGT_Project.Models.Transport
+@{
+    ViewBag.Title = "Xóa";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h3>Bạn có thật sự muốn xóa bản ghi này? </h3>
+<div>
+    <h4>Phương tiện</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Tên phương tiện
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TransportName)
+        </dd>
+
+        <dt>
+            Biển số xe
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LicensePlate)
+        </dd>
+
+        <dt>
+            Nhà sản xuất
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Manafacturer)
+        </dd>
+
+        <dt>
+            Khối lượng
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Weight)
+        </dd>
+
+        <dt>
+            Bằng lái yêu cầu
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.License_Required)
+        </dd>
+
+        <dt>
+            Trạng thái
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Status)
+        </dd>
+
+        <dt>
+            Mẫu năm
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TransportModel)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-danger" /> |
+            @Html.ActionLink("Back to List", "Index", "Transport", new { @class = "btn btn-success" })
+        </div>
+    }
+</div>
+
